@@ -1,10 +1,10 @@
-@extends('layouts.app')
+@extends('layouts.login')
 
 @section('content')
     <div class="row">
         <div class="col-lg-4 ml-auto mr-auto">
             <div class="card card-register">
-                <h3 class="title">Login</h3>
+                <h3 class="title">Board Game Safe</h3>
                 <form class="register-form" method="POST" action="{{ route('login') }}">
                     @csrf
                     <div class="form-group">

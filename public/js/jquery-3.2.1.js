@@ -86152,18 +86152,18 @@ function debounce(func, wait, immediate) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/jquery-3.2.1.js */"./resources/js/jquery-3.2.1.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/moment-with-locales.js */"./resources/js/moment-with-locales.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/jquery-ui-1.12.1.custom.min.js */"./resources/js/jquery-ui-1.12.1.custom.min.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/popper.js */"./resources/js/popper.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/bootstrap.js */"./resources/js/bootstrap.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/bootstrap-switch.min.js */"./resources/js/bootstrap-switch.min.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/nouislider.js */"./resources/js/nouislider.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/bootstrap-datetimepicker.js */"./resources/js/bootstrap-datetimepicker.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/paper-kit.js */"./resources/js/paper-kit.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/js/app.js */"./resources/js/app.js");
-__webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/sass/paper-kit.scss */"./resources/sass/paper-kit.scss");
-module.exports = __webpack_require__(/*! /Users/jameaghe/workspaces/gamer.test/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/jquery-3.2.1.js */"./resources/js/jquery-3.2.1.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/moment-with-locales.js */"./resources/js/moment-with-locales.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/jquery-ui-1.12.1.custom.min.js */"./resources/js/jquery-ui-1.12.1.custom.min.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/popper.js */"./resources/js/popper.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/bootstrap.js */"./resources/js/bootstrap.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/bootstrap-switch.min.js */"./resources/js/bootstrap-switch.min.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/nouislider.js */"./resources/js/nouislider.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/bootstrap-datetimepicker.js */"./resources/js/bootstrap-datetimepicker.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/paper-kit.js */"./resources/js/paper-kit.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/js/app.js */"./resources/js/app.js");
+__webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/sass/paper-kit.scss */"./resources/sass/paper-kit.scss");
+module.exports = __webpack_require__(/*! /Users/jameaghe/workspaces/gamer/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

@@ -2,32 +2,7 @@
 
 @section('content')
 
-    <div class="page-header section-dark" style="background-image: url('assets/img/antoine-barres.jpg')">
-        <div class="filter"></div>
-        <div class="content-center">
-            <div class="container">
-                <div class="title-brand">
-                    <h1 class="presentation-title">Paper Kit 2</h1>
-                    <div class="fog-low">
-                        <img src="assets/img/fog-low.png" alt="">
-                    </div>
-                    <div class="fog-low right">
-                        <img src="assets/img/fog-low.png" alt="">
-                    </div>
-                </div>
 
-                <h2 class="presentation-subtitle text-center">Make your mark with a Free Bootstrap 4 UI Kit! </h2>
-            </div>
-        </div>
-        <div class="moving-clouds" style="background-image: url('assets/img/clouds.png'); ">
-
-        </div>
-        <h6 class="category category-absolute">Designed and coded by
-            <a href="https://www.creative-tim.com" target="_blank">
-                <img src="assets/img/creative-tim-white-slim2.png" class="creative-tim-logo">
-            </a>
-        </h6>
-    </div>
     <div class="main">
         <div class="section section-buttons">
             <div class="container">
@@ -695,22 +670,22 @@
                     <div class="row">
                         <div class="col-8 col-sm-6 col-md-3">
                             <h4 class="images-title">Rounded Image</h4>
-                            <img src="assets/img/uriel-soberanes.jpg" class="img-rounded img-responsive" alt="Rounded Image">
+                            <img src="/img/uriel-soberanes.jpg" class="img-rounded img-responsive" alt="Rounded Image">
                             <div class="img-details">
                                 <div class="author">
-                                    <img src="assets/img/faces/clem-onojeghuo-2.jpg" alt="Circle Image" class="img-circle img-no-padding img-responsive">
+                                    <img src="/img/faces/clem-onojeghuo-2.jpg" alt="Circle Image" class="img-circle img-no-padding img-responsive">
                                 </div>
                                 <p>Chet Faker</p>
                             </div>
                         </div>
                         <div class="col-6 col-sm-3 col-md-2 mr-auto  ml-auto">
                             <h4 class="images-title">Circle Image</h4>
-                            <img src="assets/img/faces/joe-gardner-2.jpg" class="img-circle img-no-padding img-responsive" alt="Rounded Image">
+                            <img src="/img/faces/joe-gardner-2.jpg" class="img-circle img-no-padding img-responsive" alt="Rounded Image">
                             <p class="text-center">Joe Gardner</p>
                         </div>
                         <div class="col-6 col-sm-3 col-md-2 mr-auto">
                             <h4 class="images-title">Thumbnail</h4>
-                            <img src="assets/img/faces/clem-onojeghuo-3.jpg" class="img-thumbnail img-responsive" alt="Rounded Image">
+                            <img src="/img/faces/clem-onojeghuo-3.jpg" class="img-thumbnail img-responsive" alt="Rounded Image">
                             <p class="text-center">Erik Faker</p>
                         </div>
                     </div>
@@ -812,19 +787,19 @@
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active">
-                                    <img class="d-block img-fluid" src="assets\img\soroush-karimi.jpg" alt="First slide">
+                                    <img class="d-block img-fluid" src="\img\soroush-karimi.jpg" alt="First slide">
                                     <div class="carousel-caption d-none d-md-block">
                                         <p>Somewhere</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="assets\img\federico-beccari.jpg" alt="Second slide">
+                                    <img class="d-block img-fluid" src="\img\federico-beccari.jpg" alt="Second slide">
                                     <div class="carousel-caption d-none d-md-block">
                                         <p>Somewhere else</p>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="assets\img\joshua-stannard.jpg" alt="Third slide">
+                                    <img class="d-block img-fluid" src="\img\joshua-stannard.jpg" alt="Third slide">
                                     <div class="carousel-caption d-none d-md-block">
                                         <p>Here it is</p>
                                     </div>
@@ -889,7 +864,7 @@
             </div>
         </div>
     </div>
-    <div class="section section-image section-login" style="background-image: url('assets/img/login-image.jpg');">
+    <div class="section section-image section-login" style="background-image: url('/img/login-image.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 ml-auto mr-auto">
@@ -940,13 +915,13 @@
             <div class="row example-page">
                 <div class="col-md-6 text-center">
                     <a href="examples/landing.html" target="_blank">
-                        <img src="assets\img\examples\landing-page.jpg" alt="Rounded Image" class="img-rounded img-responsive" style="width: 100%">
+                        <img src="\img\examples\landing-page.jpg" alt="Rounded Image" class="img-rounded img-responsive" style="width: 100%">
                         <a href="examples/landing.html" class="btn btn-outline-neutral btn-round" target="_blank">Landing Page</a>
                     </a>
                 </div>
                 <div class="col-md-6 text-center">
                     <a href="examples/profile.html" target="_blank">
-                        <img src="assets\img\examples\profile-page.jpg" alt="Rounded Image" class="img-rounded img-responsive" style="width: 100%">
+                        <img src="\img\examples\profile-page.jpg" alt="Rounded Image" class="img-rounded img-responsive" style="width: 100%">
                         <a href="examples/profile.html" class="btn btn-outline-neutral btn-round" target="_blank">Profile Page</a>
                     </a>
                 </div>
